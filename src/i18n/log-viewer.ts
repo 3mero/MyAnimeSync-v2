@@ -1,0 +1,30 @@
+export const logViewerTranslations = {
+    ar: {
+        log_title: 'سجل أحداث التطبيق',
+        log_description: 'سجل في الوقت الفعلي لأحداث التطبيق، بما في ذلك طلبات الشبكة والأخطاء.',
+        log_no_entries: 'لا توجد إدخالات في السجل بعد. تفاعل مع التطبيق لتوليد السجلات.',
+        log_clear: 'مسح السجلات',
+        log_copied_to_clipboard: 'تم نسخ التفاصيل إلى الحافظة!',
+        log_message_copied: 'تم نسخ رسالة السجل!',
+        log_query: 'الاستعلام',
+        log_variables: 'المتغيرات',
+        log_response: 'الاستجابة',
+        log_errors: 'أخطاء',
+        log_network: 'الشبكة',
+        log_info: 'معلومات',
+    },
+    en: {
+        log_title: 'Application Event Log',
+        log_description: 'A real-time log of application events, including network requests and errors.',
+        log_no_entries: 'No log entries yet. Interact with the app to generate logs.',
+        log_clear: 'Clear Logs',
+        log_copied_to_clipboard: 'Details copied to clipboard!',
+        log_message_copied: 'Log message copied!',
+        log_query: 'Query',
+        log_variables: 'Variables',
+        log_response: 'Response',
+        log_errors: 'Errors',
+        log_network: 'Network',
+        log_info: 'Info',
+    }
+};
